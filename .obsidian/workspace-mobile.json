@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brunch.md",
+                "file": "Recipes/Brunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Brunch.md",
+            "file": "Recipes/Brunch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Brunch.md",
+            "file": "Recipes/Brunch.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Brunch.md"
+            "file": "Recipes/Brunch.md"
           }
         }
       }
@@ -131,9 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cb922aa6cb98283",
+  "active": "e06278bd1e417908",
   "lastOpenFiles": [
+    "Recipes",
     "README",
-    "Brunch.md"
+    "Recipes/Brunch.md"
   ]
 }
