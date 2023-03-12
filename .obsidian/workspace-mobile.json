@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Brunch.md",
+                "file": "Recipes/Dinner.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Brunch.md",
+            "file": "Recipes/Dinner.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Brunch.md",
+            "file": "Recipes/Dinner.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Brunch.md"
+            "file": "Recipes/Dinner.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "5cb922aa6cb98283",
   "lastOpenFiles": [
-    "Recipes/Dinner.md",
     "Recipes/Brunch.md",
+    "Recipes/Dinner.md",
     "Recipes",
     "README"
   ]
