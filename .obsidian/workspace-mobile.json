@@ -131,10 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e06278bd1e417908",
+  "active": "5cb922aa6cb98283",
   "lastOpenFiles": [
+    "Recipes/Dinner.md",
+    "Recipes/Brunch.md",
     "Recipes",
-    "README",
-    "Recipes/Brunch.md"
+    "README"
   ]
 }
