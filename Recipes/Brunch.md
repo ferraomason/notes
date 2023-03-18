@@ -14,16 +14,12 @@
 - Chilli jam
 - Cheese
 
-### Salmon and Wedges
-- Salmon
-- Spicy wedges or potatoes
-- Broccoli
-- Carrots
-
 ### Fruit Waffles
 - Waffles
 - Yogurt
 - Raspberries, bananas etc.
+
+![[Fruit-waffles.jpeg]]
 
 ### Bacon and Egg Muffins
 - Muffins
@@ -33,9 +29,18 @@
 - Chive
 - Pepper
 
+![[Bacon-egg-muffins.jpeg]]
+
 ### French Toast
 - Bread
 - Eggs
 - Milk
 - Blueberries
 - Mixed spice
+
+### Pancakes
+- Pancakes
+- Syrup
+- Lemon
+- Fruit
+
