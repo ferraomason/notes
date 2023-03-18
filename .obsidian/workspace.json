@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6611635881f5e9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.html.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html.md",
+                "file": "Recipes/Dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html.md",
+                "file": "Recipes/Dinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.html.md"
+                "file": "Recipes/Dinner.md"
               }
             }
           }
@@ -160,10 +147,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6611635881f5e9cc",
+  "active": "699c1e2b4a6d59cb",
   "lastOpenFiles": [
-    "Recipes/Dinner.md",
     "index.html.md",
+    "index.html",
+    "Recipes/Dinner.md",
     "Untitled",
     "Recipes/img/Pesto-pasta.jpeg",
     "Recipes/img/Fruit-waffles.jpeg",
