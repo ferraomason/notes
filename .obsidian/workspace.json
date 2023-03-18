@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Dinner.md",
+                "file": "Recipes/Brunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Dinner.md",
+                "file": "Recipes/Brunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Dinner.md",
+                "file": "Recipes/Brunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Dinner.md"
+                "file": "Recipes/Brunch.md"
               }
             }
           }
@@ -143,15 +143,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "699c1e2b4a6d59cb",
   "lastOpenFiles": [
+    "Recipes/Dinner.md",
     "index.html.md",
     "index.html",
-    "Recipes/Dinner.md",
     "Untitled",
     "Recipes/img/Pesto-pasta.jpeg",
     "Recipes/img/Fruit-waffles.jpeg",
