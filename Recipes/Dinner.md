@@ -5,7 +5,7 @@
 - Peas
 - Carrot
 
-![Cottage-pie](Cottage-pie.jpeg)
+![Cottage-pie](img/Cottage-pie.jpeg)
 
 ### Pesto Pasta
 - Pasta
@@ -15,7 +15,7 @@
 - Tomatoes
 - Feta cheese
 
-![Pesto-pasta](Pesto-pasta.jpeg)
+![Pesto-pasta](img/Pesto-pasta.jpeg)
 
 ### Salmon and Wedges
 - Salmon
@@ -23,7 +23,7 @@
 - Broccoli
 - Carrots
 
-![Salmon-with-wedges](Salmon-with-wedges.jpeg)
+![Salmon-with-wedges](img/Salmon-with-wedges.jpeg)
 
 ### Chinese Rice
 - Blue Dragon sauce
@@ -64,7 +64,7 @@
 - Chicken stock
 - Garlic
 
-![Honey-glazed-pork-butter-beans](Honey-glazed-pork-butter-beans.jpeg)
+![Honey-glazed-pork-butter-beans](img/Honey-glazed-pork-butter-beans.jpeg)
 
 ### Salmon and Broccoli Tagliatelle
 - Tagliatelle

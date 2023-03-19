@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Brunch.md",
+                "file": "Recipes/Dinner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Brunch.md",
+                "file": "Recipes/Dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Brunch.md",
+                "file": "Recipes/Dinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Brunch.md"
+                "file": "Recipes/Dinner.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "699c1e2b4a6d59cb",
   "lastOpenFiles": [
+    "Recipes/Brunch.md",
     "Recipes/Dinner.md",
     "index.html.md",
     "index.html",
@@ -159,7 +160,6 @@
     "Recipes/img/Salmon-with-wedges.jpeg",
     "Recipes/img/Honey-glazed-pork-butter-beans.jpeg",
     "Recipes/img",
-    "Recipes/Brunch.md",
     "Brunch.md",
     "Recipes",
     "README"

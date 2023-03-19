@@ -19,7 +19,7 @@
 - Yogurt
 - Raspberries, bananas etc.
 
-![Fruit-waffles](Fruit-waffles.jpeg)
+![Fruit-waffles](img/Fruit-waffles.jpeg)
 
 ### Bacon and Egg Muffins
 - Muffins
@@ -29,7 +29,7 @@
 - Chive
 - Pepper
 
-![Bacon-egg-muffins](Bacon-egg-muffins.jpeg)
+![Bacon-egg-muffins](img/Bacon-egg-muffins.jpeg)
 
 ### French Toast
 - Bread
